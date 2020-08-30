@@ -1,3 +1,3 @@
 # python_examples
 python coding examples
-### This is a collection python coding practice
+### This is a collection of python coding practice problems
