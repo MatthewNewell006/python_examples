@@ -8,4 +8,8 @@ label.pack()
 button = tk.Button(text = 'Click Me', width = 25, height = 5, fg = 'black', bg = 'blue')
 button.pack()
 
+entry = tk.Entry(fg="white", bg="red", width=50)
+entry.pack()
+
+
 window.mainloop() # This executes the code so the window appears
